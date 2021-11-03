@@ -1,0 +1,15 @@
+parmap
+tqdm
+pandas
+numpy
+numpy-groupies
+matplotlib
+seaborn
+tifffile==2020.6.3
+skimage
+scikit-image
+pingouin
+scanpy
+sklearn
+
+git+https://github.com/elementolab/imc.git#egg=imc==0.0.5
