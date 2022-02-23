@@ -1,11 +1,10 @@
 # Imaging mass cytometry (IMC) profiling of a case of Metastatic Sarcomatoid Urothelial Carcinoma
 
-Tumor-Immune Microenvironment Revealed by Imaging Mass Cytometry in a Metastatic Sarcomatoid Urothelial Carcinoma with an Exceptional Response to Pembrolizumab
+Tumor-Immune Microenvironment Revealed by Imaging Mass Cytometry in a Metastatic Sarcomatoid Urothelial Carcinoma with a Prolonged Response to Pembrolizumab
 
-Hussein Alnajar\*, Andre Figueiredo Rendeiro\*, Hiranmayi Ravichandran, Kentaro Ohara, Wael Al Zoughbi, Jyothi Manohar, Noah Greco, Michael Sigouros, Jesse Fox, Emily Muth, Samuel Angiuoli, Bishoy Faltas, Cora N. Sternberg, Olivier Elemento, Michael Shusterman, Juan Miguel Mosquera
+Hussein Alnajar\*, Hiranmayi Ravichandran\*, André F. Rendeiro\*, Kentaro Ohara, Wael Al Zoughbi, Jyothi Manohar, Noah Greco, Michael Sigouros, Jesse Fox, Emily Muth, Samuel Angiuoli, Bishoy Faltas, Michael Shusterman, Cora N. Sternberg, Olivier Elemento, Juan Miguel Mosquera. Cold Spring Harbor Molecular Case Studies. 2022. doi:
 
-
-We make available full stack channel images in TIFF format and cellular masks with segmentation in the following Zenodo repository: https://doi.org/10.5281/zenodo.5644313
+Imaging mass cytometry data is available from the following Zenodo repository: https://doi.org/10.5281/zenodo.6251221
 
 ## Reproducibility
 
@@ -27,4 +26,4 @@ python src/case.PM2078.analysis.py
 
 Additional steps that were used to process the raw data from a MCD file can be seen in the [Makefile](Makefile).
 
-This is roughly equivalent to running `imc process ${MCD_FILE}`.
+This is roughly equivalent to running `imc process ${TIFF_FILES}`.
