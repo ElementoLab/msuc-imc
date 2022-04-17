@@ -2,7 +2,7 @@
 
 Tumor-Immune Microenvironment Revealed by Imaging Mass Cytometry in a Metastatic Sarcomatoid Urothelial Carcinoma with a Prolonged Response to Pembrolizumab
 
-Hussein Alnajar\*, Hiranmayi Ravichandran\*, André F. Rendeiro\*, Kentaro Ohara, Wael Al Zoughbi, Jyothi Manohar, Noah Greco, Michael Sigouros, Jesse Fox, Emily Muth, Samuel Angiuoli, Bishoy Faltas, Michael Shusterman, Cora N. Sternberg, Olivier Elemento, Juan Miguel Mosquera. Cold Spring Harbor Molecular Case Studies. 2022. doi:
+Hussein Alnajar\*, Hiranmayi Ravichandran\*, André F. Rendeiro\*, Kentaro Ohara, Wael Al Zoughbi, Jyothi Manohar, Noah Greco, Michael Sigouros, Jesse Fox, Emily Muth, Samuel Angiuoli, Bishoy Faltas, Michael Shusterman, Cora N. Sternberg, Olivier Elemento, Juan Miguel Mosquera. Cold Spring Harbor Molecular Case Studies. 2022. [doi:10.1101/mcs.a006151](https://doi.org/10.1101/mcs.a006151)
 
 Imaging mass cytometry data is available from the following Zenodo repository: https://doi.org/10.5281/zenodo.6251221
 
